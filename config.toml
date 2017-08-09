@@ -4,6 +4,7 @@ baseurl = "http://nodejh.com/"
 languageCode = "en"
 title = "My Example Hugo Website"
 theme = "cactus"
+publishDir = "docs"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "your_google_analytics_code"
 hasCJKLanguage = true
